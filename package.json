@@ -1,0 +1,17 @@
+{
+  "name": "repo-marailunarillos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile-sass": "npx sass --watch styles/styles.scss styles/styles.css",
+    "prepare": "husky install"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "husky": "^7.0.4",
+    "sass": "^1.48.0"
+  }
+}
