@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "compile-sass": "npx sass --watch styles/styles.scss styles/styles.css",
+    "compile-sass": "npx sass --watch styles/sass/styles.scss styles/styles.css",
     "prepare": "husky install"
   },
   "keywords": [],
